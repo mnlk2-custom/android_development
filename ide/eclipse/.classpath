@@ -27,12 +27,10 @@
 	<classpathentry kind="src" path="packages/providers/DrmProvider/src"/>
 	<classpathentry kind="src" path="packages/providers/MediaProvider/src"/>
 	<classpathentry kind="src" path="packages/providers/TelephonyProvider/src"/>
-	<classpathentry kind="src" path="frameworks/base/awt"/>
 	<classpathentry kind="src" path="frameworks/base/cmds/am/src"/>
 	<classpathentry kind="src" path="frameworks/base/cmds/input/src"/>
 	<classpathentry kind="src" path="frameworks/base/cmds/pm/src"/>
 	<classpathentry kind="src" path="frameworks/base/cmds/svc/src"/>
-	<classpathentry kind="src" path="frameworks/base/common/java"/>
 	<classpathentry kind="src" path="frameworks/base/core/java"/>
 	<classpathentry kind="src" path="frameworks/base/core/config/sdk"/>
 	<classpathentry kind="src" path="frameworks/base/graphics/java"/>
@@ -93,8 +91,7 @@
 	<classpathentry kind="src" path="external/apache-http/src"/>
 	<classpathentry kind="src" path="external/bouncycastle/src/main/java"/>
 	<classpathentry kind="src" path="external/nist-sip/java"/>
-	<classpathentry kind="lib" path="out/target/common/obj/JAVA_LIBRARIES/google-common_intermediates/javalib.jar"/>
-	<classpathentry kind="lib" path="out/target/common/obj/JAVA_LIBRARIES/gsf-client_intermediates/javalib.jar"/>
+	<classpathentry kind="src" path="frameworks/ex/common/java"/>
 	<classpathentry kind="lib" path="out/target/common/obj/JAVA_LIBRARIES/guava_intermediates/javalib.jar"/>
 	<classpathentry kind="lib" path="packages/apps/Calculator/arity-2.1.2.jar"/>
 	<classpathentry kind="output" path="out/target/common/obj/JAVA_LIBRARIES/android_stubs_current_intermediates/classes"/>
