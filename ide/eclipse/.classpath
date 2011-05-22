@@ -13,6 +13,8 @@
 	<classpathentry kind="src" path="packages/apps/HTMLViewer/src"/>
 	<classpathentry kind="src" path="packages/apps/Launcher2/src"/>
 	<classpathentry kind="src" path="packages/apps/Mms/src"/>
+	<classpathentry kind="src" path="packages/apps/NLParts/src"/>
+	<classpathentry kind="src" path="packages/apps/NameLess-Updater/src"/>
 	<classpathentry kind="src" path="packages/apps/PackageInstaller/src"/>
 	<classpathentry kind="src" path="packages/apps/Phone/src"/>
 	<classpathentry kind="src" path="packages/apps/QuickSearchBox/src"/>
